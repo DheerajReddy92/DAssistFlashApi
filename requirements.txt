@@ -3,3 +3,8 @@ opencv-python==4.5.3.56
 numpy==1.21.0
 dlib==19.22.0
 pip==latest
+Werkzeug==2.0.1
+Jinja2==3.0.1
+itsdangerous==2.0.1
+click==8.0.1
+MarkupSafe==2.0.1
